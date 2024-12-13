@@ -43,7 +43,7 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose, cartItems }) => {
       key: 'rzp_test_qWAN0qGk5syg5o', // Razorpay Test Key ID
       amount: total * 100, // Amount in paise (100 INR)
       currency: 'INR',
-      name: 'DigihubTech',
+      name: ' CybdeerTech',
       description: ' Transaction',
       image: 'https://your-logo-url.com/logo.png', // Optional logo
       handler: function (response: any) {

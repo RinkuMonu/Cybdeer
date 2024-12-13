@@ -88,7 +88,7 @@ const Privacy = () => {
             <p>We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 
             <h3 className="section-heading"><strong>Contact Us</strong></h3>
-            <p>If you have any questions about this Privacy Policy, You can contact us via email at <a href="mailto:DigiHUbUniquenew@gmail.com">DigiHUbUniquenew@gmail.com</a>.</p>
+            <p>If you have any questions about this Privacy Policy, You can contact us via email at <a href="mailto: Cybdeer@gmail.com"> Cybdeer@gmail.com</a>.</p>
           </div>
         </div>
       </section>

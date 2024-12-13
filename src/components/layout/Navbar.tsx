@@ -17,7 +17,7 @@ const Navbar: React.FC<NavbarProps> = ({ onCartClick, cartItemCount }) => {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-24">
             <Link to="/" className="flex items-center space-x-6">
-              <img src={img1} alt="" style={{ width: '14%', marginBottom: '20px', marginTop: '20px' }} />
+              <img src={img1} alt="" style={{ width: '54%', marginBottom: '20px', marginTop: '20px' }} />
             </Link>
             <div className="flex-1 max-w-2xl mx-8">
               <div className="relative">
