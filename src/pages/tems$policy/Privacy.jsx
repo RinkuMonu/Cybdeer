@@ -22,7 +22,7 @@ const Privacy = () => {
       <section className="tp-page-area pb-80 pt-50">
         <div className="container">
           <div className="ck-content">
-            <h3 className="section-heading"><strong>Privacy Policy for Cybdeer Network Pvt Ltd Small Pvt Ltd</strong></h3>
+            <h3 className="section-heading"><strong>Privacy Policy for Finunique Small Pvt Ltd Small Pvt Ltd</strong></h3>
             <p>Last updated: Feb, 20, 2024</p>
 
             <h3 className="section-heading"><strong>Introduction</strong></h3>
@@ -88,7 +88,7 @@ const Privacy = () => {
             <p>We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 
             <h3 className="section-heading"><strong>Contact Us</strong></h3>
-            <p>If you have any questions about this Privacy Policy, You can contact us via email at <a href="mailto:Cybdeer Network Pvt Ltdnew@gmail.com">Cybdeer Network Pvt Ltdnew@gmail.com</a>.</p>
+            <p>If you have any questions about this Privacy Policy, You can contact us via email at <a href="mailto:Finunique Small Pvt Ltdnew@gmail.com">Info@Cybdeer.shop</a>.</p>
           </div>
         </div>
       </section>
